@@ -6,4 +6,4 @@ O objetivo do projeto é criar um dashboard de vendas do XBOB com dados fictíci
 
 ## Arquivo
 
-[Dashboard_XBox_Talita.xlsx]([url](https://github.com/tfanelli92/XBox_Dashboard_Excel/blob/main/Dashboard_XBox_Talita.xlsx))
+[Dashboard_XBox_Talita.xlsx]([(https://github.com/tfanelli92/XBox_Dashboard_Excel/blob/main/Dashboard_XBox_Talita.xlsx))
